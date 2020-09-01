@@ -6,11 +6,11 @@
 [![DeepLearning](https://img.shields.io/badge/DeepLearning-tf.keras-red.svg)](https://keras.io)
 ![Model](https://img.shields.io/badge/Model-GAN-green.svg)
 
-> 이번 프로젝트는 [iOS 모바일에서 한글 손글씨 인식하기(with Keras)](https://github.com/MijeongJeon/KoreanClassification_Keras_Coreml)와 이어지는 이야기로 더 많은 한글 데이터셋 구축을 위한 GAN 모델 활용에 관해 이야기합니다
+>  [iOS 모바일에서 한글 손글씨 인식하기(with Keras)](https://github.com/MijeongJeon/KoreanClassification_Keras_Coreml)와 이어지는 프로젝트로 더 많은 한글 데이터셋 구축을 위한 GAN 모델 활용에 관해 이야기합니다
 
 **GAN 모델로 생성된 한글 손 글씨 🌱**
 
-![](http://dl.dropbox.com/s/jzna1v21ch4sp53/ganadalama.gif)
+![](./media/ganadalama.gif)
 
 ---
 
