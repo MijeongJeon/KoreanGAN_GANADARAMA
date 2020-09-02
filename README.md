@@ -1,5 +1,6 @@
-# 가나다라마-GAN Model : 한글 손 글씨 이미지 생성 (with tf.keras)
-# Korean GAN : Generating Handwritten Korean Using Generative Adversarial Network
+# 가나다라마-GAN Model 한글 손 글씨 이미지 생성
+# Korean GAN : Generating Handwritten Korean Using Generative Adversarial Network (with tf.keras)
+
 
 ![Dataset](https://img.shields.io/badge/Dataset-KOREAN-yellow.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
@@ -142,4 +143,5 @@ Mijeong Jeon
 
 
 ## 프로젝트 설명 영상으로 보기 🕊
-[💻 Youtube 영상 보기]()
+[💻 Youtube 영상 보기](https://youtu.be/z-LIpUX-lpc)
+[![](./media/image6.png)](https://youtu.be/z-LIpUX-lpc)
